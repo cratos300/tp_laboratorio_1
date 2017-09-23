@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1505356415 source:c:\users\teddy\desktop\probando_tp_2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1505356471 c:\users\teddy\desktop\probando_tp_2\tp_2_cascara\funciones.h
+
+1505356633 source:c:\users\alumno\desktop\probando_tp_2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1505488626 c:\users\alumno\desktop\probando_tp_2\tp_2_cascara\funciones.h
+
+1505482078 source:c:\users\alumno\desktop\probando_tp_2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1505574406 source:c:\users\alumno\desktop\probando333\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1505574406 c:\users\alumno\desktop\probando333\tp_2_cascara\funciones.h
+
+1505574406 source:c:\users\alumno\desktop\probando333\tp_2_cascara\funciones.c
+	"funciones.h"
+
+1505574406 source:c:\users\alumno\desktop\probando333\tp_2_cascara cambiado!\funciones.c
+	"funciones.h"
+
+1505574406 c:\users\alumno\desktop\probando333\tp_2_cascara cambiado!\funciones.h
+
+1506015419 source:c:\users\teddy\desktop\tp_2_cascara cambiado!!!!!\funciones.c
+	"funciones.h"
+
+1505936615 c:\users\teddy\desktop\tp_2_cascara cambiado!!!!!\funciones.h
+
+1505946561 source:c:\users\teddy\desktop\tp_2_cascara cambiado!!!!!\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
